@@ -1,0 +1,19 @@
+.list{
+  width: 60%  !important;
+  margin: auto !important;
+  margin-top: 2% !important;
+  border:1px solid;
+  padding:20px !important;
+}
+
+#formGroupExampleInput{
+  width: 8% !important;
+  display: inline;
+}
+
+#list{
+margin:"3px"
+}
+::-webkit-scrollbar { 
+  display: none; 
+}
